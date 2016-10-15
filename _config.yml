@@ -1,0 +1,31 @@
+# Permalinks
+permalink:           /:title
+
+# Setup
+title:               ReactForce
+tagline:             React with jedi force
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Bilal Nazir
+  url:               https://twitter.com/bilalnazir90
+  email:             bilal.nazirahmad@gmail.com
+
+github: 			 https://github.com/bilalfastian
+
+# Custom vars
+version:             1.0.0
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
