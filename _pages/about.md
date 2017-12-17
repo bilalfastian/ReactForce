@@ -1,6 +1,6 @@
 ---
-title: "About"
-permalink: /about/
+title: About
+permalink: "/about/"
 ---
 
 I'm a fullstack developer, have experience in web React, Nodejs, Salesforce.
