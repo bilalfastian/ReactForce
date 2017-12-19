@@ -81,10 +81,10 @@ analytics:
 author:
   name             : "Bilal Nazir"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "A fullstack web developer, working stack React, NodeJS and Salesforce."
+  bio              : "A fullstack web developer, working stack of React, NodeJS and Salesforce(Force.com)."
   location         : "Dubai, UAE"
   email            : "bilal.nazirahmad@gmail.com"
-  uri              : 
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
@@ -274,4 +274,3 @@ defaults:
       layout: single
       author_profile: false
       share: true
-
