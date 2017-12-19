@@ -74,14 +74,14 @@ social:
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-111456803-1"
 
 
 # Site Author
 author:
   name             : "Bilal Nazir"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "A fullstack web developer (node, salesforce) and react."
+  bio              : "A fullstack web developer, working stack React, NodeJS and Salesforce."
   location         : "Dubai, UAE"
   email            : "bilal.nazirahmad@gmail.com"
   uri              : 
